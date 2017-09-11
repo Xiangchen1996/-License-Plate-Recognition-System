@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/background.jpg</file>
+        <file>resource/2.jpg</file>
+        <file>resource/3.jpg</file>
+        <file>resource/warning.jpg</file>
+        <file>resource/login_2.png</file>
+        <file>resource/login_3.png</file>
+        <file>resource/check_little.png</file>
+        <file>resource/mainDialog.png</file>
+    </qresource>
+</RCC>

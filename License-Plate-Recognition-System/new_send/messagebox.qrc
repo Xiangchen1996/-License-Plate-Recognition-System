@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/MesBox">
+        <file>close.png</file>
+        <file>error.png</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>info.png</file>
+        <file>question.png</file>
+    </qresource>
+</RCC>
